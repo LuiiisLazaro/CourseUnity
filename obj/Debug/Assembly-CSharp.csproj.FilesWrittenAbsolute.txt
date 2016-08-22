@@ -1,0 +1,13 @@
+/Users/mc01/Dropbox/ProyectoODAS/ArchivosUnityPrueba/ProyectoPrueba/Temp/bin/Debug/UnityEngine.dll
+/Users/mc01/Dropbox/ProyectoODAS/ArchivosUnityPrueba/ProyectoPrueba/Temp/bin/Debug/UnityEditor.dll
+/Users/mc01/Dropbox/ProyectoODAS/ArchivosUnityPrueba/ProyectoPrueba/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/mc01/Dropbox/ProyectoODAS/ArchivosUnityPrueba/ProyectoPrueba/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/mc01/Dropbox/ProyectoODAS/ArchivosUnityPrueba/ProyectoPrueba/Temp/bin/Debug/Mono.Cecil.dll
+/Users/mc01/Dropbox/ProyectoODAS/ArchivosUnityPrueba/ProyectoPrueba/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/mc01/Dropbox/ProyectoODAS/ArchivosUnityPrueba/ProyectoPrueba/Temp/bin/Debug/Unity.DataContract.dll
+/Users/mc01/Dropbox/ProyectoODAS/ArchivosUnityPrueba/ProyectoPrueba/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/mc01/Dropbox/ProyectoODAS/ArchivosUnityPrueba/ProyectoPrueba/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/mc01/Dropbox/ProyectoODAS/ArchivosUnityPrueba/ProyectoPrueba/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/mc01/Dropbox/ProyectoODAS/ArchivosUnityPrueba/ProyectoPrueba/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/mc01/Dropbox/ProyectoODAS/ArchivosUnityPrueba/ProyectoPrueba/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/mc01/Dropbox/ProyectoODAS/ArchivosUnityPrueba/ProyectoPrueba/Temp/bin/Debug/Mono.Cecil.Mdb.dll
